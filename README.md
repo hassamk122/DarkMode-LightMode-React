@@ -15,4 +15,4 @@ Easiest way to add dark mode to a React project using Tailwind CSS v4.0.
 
 
 
-# 📚 How to Use
+## 📚 How to Use
