@@ -16,3 +16,11 @@ Easiest way to add dark mode to a React project using Tailwind CSS v4.0.
 
 
 ## 📚 How to Use
+**Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo ```
+**Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo ```
